@@ -38,7 +38,8 @@
 
 ### Cars
 
-- decrease stock
+- load car list
+- decrease stock of a specific car
 
 ### Order
 
